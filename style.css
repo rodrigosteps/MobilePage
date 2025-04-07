@@ -145,6 +145,11 @@ margin: 1% 4%;
         display: flex;
     }
 
+    .videolink img{
+        border-radius: 15px;
+
+   }
+
     .cat{
         display: flex;
         flex-direction: row;
