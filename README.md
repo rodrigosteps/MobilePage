@@ -1,4 +1,4 @@
-<h1>The Wave News</h1>
+<h1>Mobile Page | The Wave News</h1>
 
 <p> Exemplo de um site de noticias versão mobile, usando responsividade para varios dispositivos. </p>
 
