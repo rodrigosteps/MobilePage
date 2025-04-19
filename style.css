@@ -147,6 +147,11 @@ margin: 1% 4%;
         display: flex;
     }
 
+    .bottomlinks img{
+        border-radius: 15px;
+
+   }
+
     .cat{
         display: flex;
         flex-direction: row;
