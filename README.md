@@ -2,4 +2,5 @@
 
 <p> Exemplo de um site de noticias versão mobile, usando responsividade para varios dispositivos. </p>
 
-![bkg](https://github.com/user-attachments/assets/7217549c-2fca-478d-bc4a-8bc8f6a1cefa)
+
+![bkg (1)](https://github.com/user-attachments/assets/3af4591a-a2e9-425d-b60f-e973d95fc0ea)
