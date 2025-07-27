@@ -190,15 +190,17 @@ margin: 1% 4%;
     }
 
 }
+.footer img{
+    height: 100px;
 
+    width: 400px;
+    margin: 0 auto;
+}
 .footer {
-        text-align: center;
-       width: 100%;
-       background-color: var(--nav-color);
-       font-size: var(--p-font);
-       font-weight: var(--p-weight);
-       padding: 4%;
-       
+    display: flex;
+    justify-content: center;
+    background-color:var(--nav-color);
+
 }
 
 
