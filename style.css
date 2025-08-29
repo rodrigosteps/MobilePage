@@ -12,7 +12,7 @@
     --background-color: #e0e4e6;
     --links-color:#ececec;
     --nav-color:#3281a5;
-    --h1-color:#000000;
+    --h1-color:#1C1C1C;
     --p-color:#000000;
     --h1font:"Fira Sans", sans-serif;
     --h1-weight: 400;
@@ -33,16 +33,16 @@ body{
     padding: 2% 4%;
     background-color: var(--nav-color);
 
-        .tab{
+        .Tab{
         display: flex;
         align-items: center;
         }
 
-        .tab img{
+        .Tab img{
         width: 30px;
 
         }
-        .logo img{
+        .Logo img{
         width: 40px;
         }
 }
